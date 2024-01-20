@@ -29,9 +29,11 @@
     I am looking for many things. Do you want to join me in the search?
 </h3>
 <p align="center">
-    <img width="20px" src="icon/php.svg" alt="Telegram" />
-    <img width="20px" src="icon/javascript.svg" alt="javascript" />
-    <img width="20px" src="icon/react.svg" alt="react" />
+    <img src="icon/php.svg" alt="Telegram" width="20px" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="icon/javascript.svg" alt="javascript" width="20px" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="icon/react.svg" alt="react" width="20px" />
 </p>
 <img src="slogan.png" alt="Slogan" />
 
