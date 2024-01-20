@@ -26,7 +26,7 @@
     </a>
 </p>
 <h3 align="center">
-    I am proficient in creating elaborate 'Hello, world!' outputs in the following languages.
+    Yes, I am proficient in creating fancy 'Hello, world!' outputs in the following languages.
 </h3>
 <p align="center">
     <img src="icon/php.svg" alt="Telegram" width="20px" />
