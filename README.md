@@ -36,7 +36,7 @@
     <img src="icon/react.svg" alt="react" width="20px" />
 </p>
 <p align="center">
-    🤣😅🤥😏🥴😋
+    -------- 🤣😅🤥😏🥴😋 --------
 </p>
 <img src="slogan.png" alt="Slogan" />
 
