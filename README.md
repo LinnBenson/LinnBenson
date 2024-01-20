@@ -25,11 +25,8 @@
         <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="Telegram" />
     </a>
 </p>
-<p align="center">
-    🤣😅🤥😏🥴😋
-</p>
 <h3 align="center">
-    I am proficient in creating elaborate 'Hello, World!' outputs in the following languages.
+    I am proficient in creating elaborate 'Hello, world!' outputs in the following languages.
 </h3>
 <p align="center">
     <img src="icon/php.svg" alt="Telegram" width="20px" />
@@ -37,6 +34,9 @@
     <img src="icon/javascript.svg" alt="javascript" width="20px" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="icon/react.svg" alt="react" width="20px" />
+</p>
+<p align="center">
+    🤣😅🤥😏🥴😋
 </p>
 <img src="slogan.png" alt="Slogan" />
 
