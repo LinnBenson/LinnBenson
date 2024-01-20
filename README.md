@@ -4,7 +4,7 @@
     </a>
 </h1>
 <p align="center">
-    <strong>Hello world!</strong>
+    <strong>Hello, world!</strong>
     <br />
     Don't wake me. I'm not dreaming.
 </p>
@@ -24,6 +24,9 @@
     <a href="https://t.me/Beichuan">
         <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="Telegram" />
     </a>
+</p>
+<p align="center">
+    🤣😅🤥😏🥴😋
 </p>
 <h3 align="center">
     I am proficient in creating elaborate 'Hello, World!' outputs in the following languages.
