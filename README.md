@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="Telegram" />
     </a>
 </p>
-
-## I am looking for many things. Do you want to join me in the search?
-
-![Slogan](slogan.png)
+<h3 align="center">
+    I am looking for many things. Do you want to join me in the search?
+</h3>
+<img src="slogan.png" alt="Slogan" />
