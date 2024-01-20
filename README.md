@@ -31,7 +31,7 @@
 <img src="slogan.png" alt="Slogan" />
 
 ---
-## 我在忙这些东西
-- ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d) [ Develop ] 轻巧易用的 PHP 网络框架
-- ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d) [ [Befunc](https://github.com/LinnBenson/BeFunc) ] MIT Javascript 实用函数封装
-- ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d) [ [BeLogin](https://github.com/LinnBenson/BeLogin) ] MIT 简洁、现代 的登录注册页面
+## 我在忙这些东西 ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square&logo=mit&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d)
+- [ Develop ] 轻巧易用的 PHP 网络框架
+- [ [Befunc](https://github.com/LinnBenson/BeFunc) ] MIT Javascript 实用函数封装
+- [ [BeLogin](https://github.com/LinnBenson/BeLogin) ] MIT 简洁、现代 的登录注册页面
