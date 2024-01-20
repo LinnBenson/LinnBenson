@@ -32,6 +32,6 @@
 
 ---
 ## 在忙这些：
-- [ Develop ] 轻巧易用的 PHP 网络框架 ![CODE](icon/php.png)
-- [ [Befunc](https://github.com/LinnBenson/BeFunc) ] Javascript 实用函数封装 ![CODE](icon/javascipt.png)
-- [ [BeLogin](https://github.com/LinnBenson/BeLogin) ] 简洁、现代 的登录注册页面 ![CODE](icon/react.png)
+- ![CODE](icon/php.png) [ Develop ] 轻巧易用的 PHP 网络框架
+- ![CODE](icon/javascript.png) [ [Befunc](https://github.com/LinnBenson/BeFunc) ] Javascript 实用函数封装
+- ![CODE](icon/react.png) [ [BeLogin](https://github.com/LinnBenson/BeLogin) ] 简洁、现代 的登录注册页面
