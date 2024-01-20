@@ -32,6 +32,6 @@
 
 ---
 ## 我在忙这些东西
-- ( 未公开 ) 轻巧易用的 PHP 网络框架
-- [Befunc](https://github.com/LinnBenson/BeFunc) Javascript 实用函数封装
-- [BeLogin](https://github.com/LinnBenson/BeLogin) 简洁、现代 的登录注册页面
+- [ Private ] 轻巧易用的 PHP 网络框架
+- [ [Befunc](https://github.com/LinnBenson/BeFunc) ] MIT Javascript 实用函数封装
+- [ [BeLogin](https://github.com/LinnBenson/BeLogin) ] MIT 简洁、现代 的登录注册页面
