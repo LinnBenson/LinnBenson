@@ -26,6 +26,6 @@
     </a>
 </p>
 
-## I am looking for many things.
+## I am looking for many things. Do you want to join me in the search?
 
-![Slogan](slogan.jpg)
+![Slogan](slogan.png)
