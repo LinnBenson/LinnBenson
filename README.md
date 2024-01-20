@@ -25,8 +25,7 @@
         <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="Telegram" />
     </a>
 </p>
-<br />
-<br />
+
+### I am looking for many things.
+
 ![Background](background.jpg)
-<br />
-<br />
