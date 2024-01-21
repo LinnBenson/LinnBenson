@@ -10,19 +10,19 @@
 </p>
 <p align="center">
     <a href="https://github.com/LinnBenson">
-        <img src="https://img.shields.io/badge/study-PHP-blue?style=for-the-badge&logo=php&logoColor=%23F3F3F3&labelColor=%231f2328&color=%2358b5f2" alt="php" />
+        <img src="https://img.shields.io/badge/study-PHP-blue?style=for-the-badge&logo=php&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="php" />
     </a>
     <a href="https://github.com/LinnBenson">
-        <img src="https://img.shields.io/badge/study-javascipt-blue?style=for-the-badge&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%2358b5f2" alt="javascript" />
+        <img src="https://img.shields.io/badge/study-javascipt-blue?style=for-the-badge&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="javascript" />
     </a>
     <a href="https://github.com/LinnBenson">
-        <img src="https://img.shields.io/badge/study-react-blue?style=for-the-badge&logo=react&logoColor=%23F3F3F3&labelColor=%231f2328&color=%2358b5f2" alt="react" />
+        <img src="https://img.shields.io/badge/study-react-blue?style=for-the-badge&logo=react&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="react" />
     </a>
     <a href="https://bemiun.com">
-        <img src="https://img.shields.io/badge/SITE-BEMIUN-blue?style=for-the-badge&logo=coursera&logoColor=%23F3F3F3&labelColor=%231f2328&color=%2358b5f2" alt="Website" />
+        <img src="https://img.shields.io/badge/SITE-BEMIUN-blue?style=for-the-badge&logo=coursera&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="Website" />
     </a>
     <a href="https://t.me/Beichuan">
-        <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%2358b5f2" alt="Telegram" />
+        <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="Telegram" />
     </a>
 </p>
 <h3 align="center">
