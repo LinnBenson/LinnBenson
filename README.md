@@ -10,19 +10,19 @@
 </p>
 <p align="center">
     <a href="">
-        <img src="https://img.shields.io/badge/study-PHP-blue?style=for-the-badge&logo=php&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="php" />
+        <img src="https://img.shields.io/badge/study-PHP-blue?style=for-the-badge&logo=php&logoColor=%23F3F3F3&labelColor=%231f2328&color=%238c3d40" alt="php" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/study-javascipt-blue?style=for-the-badge&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="javascript" />
+        <img src="https://img.shields.io/badge/study-javascipt-blue?style=for-the-badge&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%238c3d40" alt="javascript" />
     </a>
     <a href="">
-        <img src="https://img.shields.io/badge/study-react-blue?style=for-the-badge&logo=react&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="react" />
+        <img src="https://img.shields.io/badge/study-react-blue?style=for-the-badge&logo=react&logoColor=%23F3F3F3&labelColor=%231f2328&color=%238c3d40" alt="react" />
     </a>
     <a href="https://bemiun.com">
-        <img src="https://img.shields.io/badge/SITE-BEMIUN-blue?style=for-the-badge&logo=coursera&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="Website" />
+        <img src="https://img.shields.io/badge/SITE-BEMIUN-blue?style=for-the-badge&logo=coursera&logoColor=%23F3F3F3&labelColor=%231f2328&color=%238c3d40" alt="Website" />
     </a>
     <a href="https://t.me/Beichuan">
-        <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%231f883d" alt="Telegram" />
+        <img src="https://img.shields.io/badge/TG-beichuan-blue?style=for-the-badge&logo=telegram&logoColor=%23F3F3F3&labelColor=%231f2328&color=%238c3d40" alt="Telegram" />
     </a>
 </p>
 <h3 align="center">
