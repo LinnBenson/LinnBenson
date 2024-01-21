@@ -9,13 +9,13 @@
     Don't wake me. I'm not dreaming.
 </p>
 <p align="center">
-    <a href="">
+    <a href="https://github.com/LinnBenson">
         <img src="https://img.shields.io/badge/study-PHP-blue?style=for-the-badge&logo=php&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="php" />
     </a>
-    <a href="">
+    <a href="https://github.com/LinnBenson">
         <img src="https://img.shields.io/badge/study-javascipt-blue?style=for-the-badge&logo=javascript&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="javascript" />
     </a>
-    <a href="">
+    <a href="https://github.com/LinnBenson">
         <img src="https://img.shields.io/badge/study-react-blue?style=for-the-badge&logo=react&logoColor=%23F3F3F3&labelColor=%231f2328&color=%230969da" alt="react" />
     </a>
     <a href="https://bemiun.com">
