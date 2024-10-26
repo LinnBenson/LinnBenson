@@ -43,5 +43,5 @@
 ---
 ## 在忙这些：
 - [ MIT: Develop... ] 轻巧易用的 PHP 网络框架
-- [ MIT: [Befunc](https://github.com/LinnBenson/BeFunc) ] Javascript 实用函数封装
+- [ MIT: [TextcoreTool](https://github.com/LinnBenson/TextcoreTool) ] Javascript 实用函数封装
 - [ MIT: [BeLogin](https://github.com/LinnBenson/BeLogin) ] 简洁、现代 的登录注册页面
