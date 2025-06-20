@@ -4,7 +4,7 @@
     </a>
 </h1>
 <p align="center">
-    <strong>9Hello, world!</strong>
+    <strong>Hello, world!</strong>
     <br />
     Don't wake me. I'm not dreaming.
 </p>
