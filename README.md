@@ -42,6 +42,4 @@
 
 ---
 ## 在忙这些：
-- [ MIT: [TCore](https://github.com/LinnBenson/TCore) ] 轻巧易用的 PHP 网络框架
-- [ MIT: [TextcoreTool](https://github.com/LinnBenson/TextcoreTool) ] Javascript 实用函数封装
-- [ MIT: [BeLogin](https://github.com/LinnBenson/BeLogin) ] 简洁、现代 的登录注册页面
+- [ MIT: [ForLaravel](https://github.com/LinnBenson/ForLaravel) ] Laravel 12 开发模板，在原有的 Laravel 12 上加上了 Filament 管理后台，并做了一些基础功能适配，以及完成了插件系统的扩展。
