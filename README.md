@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/LinnBenson/BeFunc">
+    <a href="https://github.com/LinnBenson/LinnBenson">
         Linn Benson
     </a>
 </h1>
@@ -38,8 +38,8 @@
 <p align="center">
     -------- 🤣😅🤥😏🥴😋 --------
 </p>
-<img src="slogan.png" alt="Slogan" />
+<img src="icon/slogan.png" alt="Slogan" />
 
 ---
 ## 在忙这些：
-- [ MIT: [ForLaravel](https://github.com/LinnBenson/ForLaravel) ] Laravel 12 开发模板，在原有的 Laravel 12 上加上了 Filament 管理后台，并做了一些基础功能适配，以及完成了插件系统的扩展。
+- [ Apache-2.0: [S Key](https://github.com/LinnBenson/S-Key) ] 面向 Android 的输入法：以本地输入为基础，将翻译、AI 文字处理和语音输入放进键盘。
