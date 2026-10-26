@@ -43,3 +43,8 @@
 ---
 ## 在忙这些：
 - [ Apache-2.0: [S Key](https://github.com/LinnBenson/S-Key) ] 面向 Android 的输入法：以本地输入为基础，将翻译、AI 文字处理和语音输入放进键盘。
+
+---
+## 我会如何使用 AI：
+- 用于安卓开发:
+  - [Android.md](AGENTS/Android.md)
