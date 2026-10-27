@@ -21,6 +21,7 @@
 - 未经任务要求，不擅自升级 Gradle、Android Gradle Plugin 或其他依赖。
 - 使用 BlueStacks 进行运行验证，并记录实际 Android 系统版本；模拟器系统版本与编译 SDK 版本分别记录。
 - 界面开发使用 `React Native + JavaScript`，安卓原生部分使用 `Java` 或 `Kotlin`。
+- UI 框架请使用 `HeroUI Native` 来构建界面，保持与项目整体风格和交互一致。
 
 ## 开发要求及代码规范
 
