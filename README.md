@@ -43,6 +43,7 @@
 ---
 ## 在忙这些：
 - [ Apache-2.0: [S Key](https://github.com/LinnBenson/S-Key) ] 面向 Android 的输入法：以本地输入为基础，将翻译、AI 文字处理和语音输入放进键盘。
+- [ MIT: [LarExtend](https://github.com/LinnBenson/LarExtend) ] Laravel 插件式开发支持器，专注您的开发，其它流程交给 LarExtend 为您完成！
 
 ---
 ## 我会如何使用 AI：
