@@ -45,7 +45,7 @@
 - [ MIT: [LarExtend](https://github.com/LinnBenson/LarExtend) ] Laravel 插件式开发支持器，专注您的开发，其它流程交给 LarExtend 为您完成！
 - [ Apache-2.0: [S Key](https://github.com/LinnBenson/S-Key) ] 面向 Android 的输入法：以本地输入为基础，将翻译、AI 文字处理和语音输入放进键盘。
 - [ Apache-2.0: [And JS](https://github.com/LinnBenson/And-JS) ] 由 Javascript 驱动的安卓手机和安卓手表的快捷指令方式，一键运行您的脚本。
-- [ Apache-2.0: [腕上浏览器](https://github.com/LinnBenson/Wear-Browser) ] 一款强大便捷，适用于圆形表盘的腕上浏览器。
+- [ Apache-2.0: [Go web](https://github.com/LinnBenson/Go-web) ] 一款强大便捷，适用于圆形表盘的腕上浏览器，基于 GeckoView 开发，涵盖了基础的网页功能操作！
 
 ---
 ## 我会如何使用 AI：
